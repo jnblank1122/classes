@@ -1,0 +1,17 @@
+.flashy {
+  color: white;
+  font-weight: lighter;
+  text-align: center;}
+
+.best {
+  color: white;
+  font-family: sans-serif;
+  font-size: 30px;
+}
+
+body {background-color: #ffb3e7}
+
+.pics {
+  width: 50%;
+  margin: 50px 50%;
+}
