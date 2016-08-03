@@ -1,6 +1,12 @@
 .upcoming {
   float: right;
   width: 30%;
+  border-style: dashed;
+  background-color: #b84dff;
+  padding: 30px;
+  margin: 30px;
+
+
 }
 
 .information {

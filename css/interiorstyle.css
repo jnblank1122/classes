@@ -1,11 +1,33 @@
-.spot{
+.spot1{
   width: 30%;
   float: left;;
   height: auto;
   border-style: dashed;
-  padding-left: 3%;
-  padding-right: 3%;
+  background-color:  #86592d;
+  margin-right: 20px;
+  padding: 20px;
 }
+
+.spot2{
+  width: 30%;
+  float: left;;
+  height: auto;
+  border-style: dashed;
+  background-color: #00ff00;
+  margin-right: 20px;
+  padding: 20px;
+}
+
+.spot3{
+  width: 30%;
+  float: left;;
+  height: auto;
+  border-style: dashed;
+  background-color:  #ffd11a;
+  margin-right: 20px;
+  padding: 20px;
+}
+
 
 .style{
   font-size: 48px;
