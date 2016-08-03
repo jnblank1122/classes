@@ -1,0 +1,24 @@
+.spot{
+  width: 30%;
+  float: left;;
+  height: auto;
+  border-style: dashed;
+  padding-left: 3%;
+  padding-right: 3%;
+}
+
+.style{
+  font-size: 48px;
+  color: #ffffff;
+  background-color: #ff0066;
+  font-family: cursive;
+}
+
+body {
+  background-color: lightblue;
+}
+
+h3 {
+  float: left;
+  height: auto;
+}
